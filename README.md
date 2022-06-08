@@ -1,6 +1,21 @@
 ## Задания для практикантов направление WEB-DEVELOP (Based) FRONT-END
 
 
+### Оглавление
+
+1. [Введение](https://github.com/wolfdevweb/practice#1-Ведение)
+2. [Контакты и организация работы](https://github.com/wolfdevweb/practice#2-контакты-и-организация-работы)
+3. [Требования](https://github.com/wolfdevweb/practice#3-требования)
+4. [Правила](https://github.com/wolfdevweb/practice#4-правила)
+5. [Штрафные санкции (снижение оценки](https://github.com/wolfdevweb/practice#5-штрафные-санкции-снижение-оценки)
+6. [Дополнительные баллы](https://github.com/wolfdevweb/practice#6-дополнительные-баллы)
+7. [Перед началом работы](https://github.com/wolfdevweb/practice#7-перед-началом-работы)
+8. [Начало работы (учебный материал)](https://github.com/wolfdevweb/practice#8-начало-работы-учебный-материал)
+9. [Переход от теории к практике (задание)](https://github.com/wolfdevweb/practice#9-переход-от-теории-к-практике-задание)
+10. [Лайфхаки](https://github.com/wolfdevweb/practice#10-лайфхаки)
+11. [ИТОГИ ПРАКТИКИ и ЗАКЛЮЧЕНИЯ](https://github.com/wolfdevweb/practice#11-итоги-практики-и-заключения)
+12. [Отзыв на преподавательскую деятельность](https://github.com/wolfdevweb/practice#12-отзыв-на-преподавательскую-деятельность)
+
 ### 1. Ведение 
 
 Приветствую всех кто читает данный репозиторий. Начнём знакомство с того, что Вы изучите в процессе прохождения практики.
